@@ -1,3 +1,8 @@
+//Installing Scala in Windows : Install Java VM and download 
+//the latest version of Scala from http://scala-lang.org/download/
+//Also set the Environment variable of PATH to the Bin folder inside Scala
+//i.e. C:\Program Files (x86)\scala\bin
+
 //Install Scala on Mac : Install Java VM, Install Homebrew,
 // In terminal type: brew install scala
 
@@ -97,7 +102,7 @@ exp(1) // Euler's number raised to the power
 pow(2, 2) // 2^2
 sqrt(pow(2,2) + pow(2,2))
 hypot(2, 2) // sqrt(X^2 + y^2)
-log10(1000) // = 3 (10?×?10?×?10 = 10^3)
+log10(1000) // = 3 (10?Ã—?10?Ã—?10 = 10^3)
 log(2.7182818284590455) // Natural logarithm to the base e
 min(5, 10)
 max(5, 10)
