@@ -684,3 +684,4 @@ class Superhero(val name : String) extends Flyable with Bulletproof{
 }
 
 } // ---------- End of object ScalaTut ----------</textarea>
+    
