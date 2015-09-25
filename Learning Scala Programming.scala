@@ -1,6 +1,6 @@
 //Installing Scala in Windows : Install Java VM and download 
 //the latest version of Scala from http://scala-lang.org/download/
-//Also set the Environment variable of PATH to the Bin folder inside Scala
+//Also set the Environment variable of PATH to the Bin folder inside Scala 
 //i.e. C:\Program Files (x86)\scala\bin
  
 //Install Scala on Mac : Install Java VM, Install Homebrew,
