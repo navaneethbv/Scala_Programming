@@ -13,7 +13,7 @@
 // File ends with the scala extension
 
 // How to import library functions
-import scala.io.StdIn.{readLine,readInt}
+import scala.io.StdIn.{readLine,readInt}   
 import scala.math._
 import scala.collection.mutable.ArrayBuffer
 import java.io.PrintWriter
